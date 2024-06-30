@@ -24,4 +24,4 @@ This project demonstrates how to scrape English Premier League (EPL) match resul
     - Run `scrape_epl_matches.py` to collect match data
     - Explore the generated DataFrames
 ## Results
-The script successfully scrapes data for 1389 matches from EPL seasons 2020 through 2022. The resulting DataFrame includes match details, scores, shots, and shots on target.
+The script successfully scrapes data for 1520 matches from EPL seasons 2023 through 2024. The resulting DataFrame includes match details, scores, shots, and shots on target.
